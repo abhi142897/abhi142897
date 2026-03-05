@@ -6,6 +6,6 @@ This repository contains my structured notes on:
 - DSA
 - LLD & HLD
 
-📌 Start here → [java-backend-learning-notes](https://github.com/abhi142897/java-backend-learning-notes)
+📌 Start here → [java-backend-learning-notes](https://github.com/abhi142897/java-backend-notes-public.git)
 
 Currently focused on building strong backend & system design fundamentals.
